@@ -1,0 +1,80 @@
+{
+    profile: {
+      titre: "Alternance Développeur / Intégrateur Web",
+      prénom: "Pierre",
+      nom_de_famille: "LHOSTE",
+      date_de_naissance: "04-02-2000",
+      ville: "pélissanne",
+        mail: "vingt-douze@protonmail.com",
+        website: "Pierre-LHOSTE.github.io",
+        liens: [{ nom: "Codepen", lien: "https://codepen.io/vingt-douze" }],
+      interêts: [
+        {
+          titre: "Collection",
+          description: "Trophées, figurines, cartes à collectionner"
+        },
+        {
+          titre: "Jeux vidéo",
+          description: "Principalement des jeux de créativité et quelques FPS"
+        },
+        {
+          titre: "Art",
+          description:
+            "Dessins (traditionnel et digital), Illustration, 3D, Montage"
+        }
+      ],
+      description:
+        "Actuellement en formation à 3WAcademy, je recherche un poste en alternance, de préférence en télétravail complet.",
+      détails: [
+        "Rythme : 3 semaines en entreprise / 1 semaine en école",
+        "Formation éligible à l’Aide Exceptionnelle de 8000€"
+      ]
+    },
+    formations: [
+      {
+        date: "2015-2019",
+        lieux: "Salon-de-Provence",
+        école: "Lycée de l'Emperi",
+        url: "http://www.lyc-emperi.ac-aix-marseille.fr",
+        nom: "Bac scientifique",
+        statut: "ok"
+      },
+      {
+        date: "2019-2022",
+        lieux: "Salon-de-Provence",
+        école: "UIT Aix-Marseille",
+        url: "https://iut.univ-amu.fr/fr",
+        nom: "DUT Génie électrique et informatique industrielle",
+        statut: "ok"
+      },
+      {
+        date: "2022-",
+        lieux: "Télé présentiel",
+        école: "3W Academy",
+        url: "https://www.3wrh.fr/",
+        nom: "Formation Développeur Intégrateur web",
+        statut: "en cours"
+      }
+    ],
+    compétences: {
+      logiciels: [
+        { nom: "Photoshop", note: 8 },
+        { nom: "Illustrator", note: 6 },
+        { nom: "Git", note: 5 },
+        { nom: "Atom", note: 8 },
+        { nom: "NodeJs", note: 5 },
+        { nom: "Microsoft Office", note: 6 }
+      ],
+      langages: [
+        { nom: "JS", note: 7 },
+        { nom: "HTML", note: 8 },
+        { nom: "CSS", note: 8 },
+        { nom: "C", note: 3 },
+        { nom: "Vb.NET", note: 5 },
+        { nom: "VHDL", note: 4 },
+        { nom: "PYTHON", note: 4 },
+        { nom: "PHP", note: 3 }
+      ],
+      frameworks: [{ nom: "React", note: 6 }, { nom: "Electron", note: 5 }]
+    }
+  }
