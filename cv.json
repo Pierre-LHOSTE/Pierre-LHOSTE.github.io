@@ -9,21 +9,6 @@
         "mail": "vingt-douze@protonmail.com",
         "website": "Pierre-LHOSTE.github.io",
         "liens": [{ "nom": "Codepen", "lien": "https://codepen.io/vingt-douze" }],
-      "interêts": [
-        {
-          "titre": "Collection",
-          "description": "Trophées, figurines, cartes à collectionner"
-        },
-        {
-          "titre": "Jeux vidéo",
-          "description": "Principalement des jeux de créativité et quelques FPS"
-        },
-        {
-          "titre": "Art",
-          "description":
-            "Dessins (traditionnel et digital), Illustration, 3D, Montage"
-        }
-      ],
       "description":
         "Actuellement en formation à 3WAcademy, Je suis à la recherche d'un contrat d'apprentissage en tant que Développeur / Intégrateur Web, de préférence en télétravail complet",
       "détails": [
@@ -77,5 +62,75 @@
         { "nom": "PHP", "note": 3 }
       ],
       "frameworks": [{ "nom": "React", "note": 6 }, { "nom": "Electron", "note": 5 }]
+    },
+    "interêts": [
+    {
+      "titre": "🏆 Collection",
+      "description": "J'aime collectionner des choses comme des trophées, des figurines ou des cartes à collectionner",
+      "exemples": [
+        {
+          "nom": "Funko",
+          "image":
+            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/funko-logo.png",
+          "url": "https://www.funko.com/"
+        },
+        {
+          "nom": "Pokémon",
+          "image":
+            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/pokemon-logo.png",
+          "url": "https://www.pokemon.com/fr/"
+        }
+      ]
+    },
+    {
+      "titre": "🎮 Jeux vidéo",
+      "description": "Je joue principalement à des jeux créatifs et à quelques autres jeux de FPS, de stratégie ou de simulation",
+      "exemples": [
+        {
+          "nom": "Minecraft",
+          "url": "https://www.minecraft.net/fr-fr",
+          "image":
+            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/minecraft-logo.png"
+        },
+        {
+          "nom": "Fortnite créative",
+          "url": "https://www.epicgames.com/fortnite/fr/creative",
+          "image":
+            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/fortnite-creative-logo.png"
+        }
+      ]
+    },
+    {
+      "titre": "🎨 Art",
+      "description":
+        "J'aime l'art en général : j'aime dessiner, faire des illustrations, des montages photos ou des vidéos ou même de la 3D",
+      "exemples": [
+        {
+          "nom": "Imgur",
+          "image":
+            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/imgur-logo.png",
+          "url": "https://imgur.com/a/apmRtPe"
+        },
+        {
+          "nom": "Imgur",
+          "image":
+            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/imgur-logo.png",
+          "url": "https://imgur.com/a/uBbBAga"
+        }
+      ]
+    },
+    {
+      "titre": "💻 Technologies",
+      "description":
+        "J'aime l'informatique, que ce soit les nouvelles technologies, internet, l'automatisation et la programmation",
+      "exemples": [
+        {
+          "nom": "Github",
+          "url": "https://github.com/Pierre-LHOSTE",
+          "image":
+            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/github-logo.png"
+        }
+      ]
     }
+  ]
   }
