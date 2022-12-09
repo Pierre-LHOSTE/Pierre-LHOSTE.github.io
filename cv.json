@@ -1,83 +1,83 @@
 {
-    "profile": {
-      "titre": "Alternance Développeur / Intégrateur Web",
-      "prénom": "Pierre",
-      "nom_de_famille": "LHOSTE",
-      "date_de_naissance": "04-02-2000",
-      "photo": "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/avatar.png",
-      "ville": "pélissanne",
-        "mail": "vingt-douze@protonmail.com",
-        "website": "Pierre-LHOSTE.github.io",
-        "liens": [{ "nom": "Codepen", "lien": "https://codepen.io/vingt-douze" }],
-      "description":
-        "Actuellement en formation à 3WAcademy, Je suis à la recherche d'un contrat d'apprentissage en tant que Développeur / Intégrateur Web, de préférence en télétravail complet",
-      "détails": [
-        "Rythme : 3 semaines en entreprise / 1 semaine en école",
-        "Formation éligible à l’Aide Exceptionnelle de 8000€"
-      ]
+  "profile": {
+    "titre": "Alternance Développeur / Intégrateur Web",
+    "prénom": "Pierre",
+    "nom_de_famille": "LHOSTE",
+    "date_de_naissance": "04-02-2000",
+    "photo": "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/avatar.png",
+    "ville": "pélissanne",
+    "mail": "vingt-douze@protonmail.com",
+    "website": "Pierre-LHOSTE.github.io",
+    "liens": [{ "nom": "Codepen", "lien": "https://codepen.io/vingt-douze" }],
+    "description": "Actuellement en formation à 3WAcademy, Je suis à la recherche d'un contrat d'apprentissage en tant que Développeur / Intégrateur Web, de préférence en télétravail complet",
+    "détails": [
+      "Rythme : 3 semaines en entreprise / 1 semaine en école",
+      "Formation éligible à l’Aide Exceptionnelle de 8000€"
+    ]
+  },
+  "formations": [
+    {
+      "date": "2015-2019",
+      "lieux": "Salon-de-Provence",
+      "école": "Lycée de l'Emperi",
+      "url": "http://www.lyc-emperi.ac-aix-marseille.fr",
+      "nom": "Bac scientifique",
+      "statut": "ok"
     },
-    "formations": [
-      {
-        "date": "2015-2019",
-        "lieux": "Salon-de-Provence",
-        "école": "Lycée de l'Emperi",
-        "url": "http://www.lyc-emperi.ac-aix-marseille.fr",
-        "nom": "Bac scientifique",
-        "statut": "ok"
-      },
-      {
-        "date": "2019-2022",
-        "lieux": "Salon-de-Provence",
-        "école": "UIT Aix-Marseille",
-        "url": "https://iut.univ-amu.fr/fr",
-        "nom": "DUT Génie électrique et informatique industrielle",
-        "statut": "ok"
-      },
-      {
-        "date": "2022-",
-        "lieux": "Télé présentiel",
-        "école": "3W Academy",
-        "url": "https://www.3wrh.fr/",
-        "nom": "Formation Développeur Intégrateur web",
-        "statut": "en cours"
-      }
+    {
+      "date": "2019-2022",
+      "lieux": "Salon-de-Provence",
+      "école": "UIT Aix-Marseille",
+      "url": "https://iut.univ-amu.fr/fr",
+      "nom": "DUT Génie électrique et informatique industrielle",
+      "statut": "ok"
+    },
+    {
+      "date": "2022-",
+      "lieux": "Télé présentiel",
+      "école": "3W Academy",
+      "url": "https://www.3wrh.fr/",
+      "nom": "Formation Développeur Intégrateur web",
+      "statut": "en cours"
+    }
+  ],
+  "compétences": {
+    "logiciels": [
+      { "nom": "Photoshop", "note": 8 },
+      { "nom": "Illustrator", "note": 6 },
+      { "nom": "Git", "note": 5 },
+      { "nom": "Atom", "note": 8 },
+      { "nom": "NodeJs", "note": 5 },
+      { "nom": "Microsoft Office", "note": 6 }
     ],
-    "compétences": {
-      "logiciels": [
-        { "nom": "Photoshop", "note": 8 },
-        { "nom": "Illustrator", "note": 6 },
-        { "nom": "Git", "note": 5 },
-        { "nom": "Atom", "note": 8 },
-        { "nom": "NodeJs", "note": 5 },
-        { "nom": "Microsoft Office", "note": 6 }
-      ],
-      "langages": [
-        { "nom": "JS", "note": 7 },
-        { "nom": "HTML", "note": 8 },
-        { "nom": "CSS", "note": 8 },
-        { "nom": "C", "note": 3 },
-        { "nom": "Vb.NET", "note": 5 },
-        { "nom": "VHDL", "note": 4 },
-        { "nom": "PYTHON", "note": 4 },
-        { "nom": "PHP", "note": 3 }
-      ],
-      "frameworks": [{ "nom": "React", "note": 6 }, { "nom": "Electron", "note": 5 }]
-    },
-    "interêts": [
+    "langages": [
+      { "nom": "JS", "note": 7 },
+      { "nom": "HTML", "note": 8 },
+      { "nom": "CSS", "note": 8 },
+      { "nom": "C", "note": 3 },
+      { "nom": "Vb.NET", "note": 5 },
+      { "nom": "VHDL", "note": 4 },
+      { "nom": "PYTHON", "note": 4 },
+      { "nom": "PHP", "note": 3 }
+    ],
+    "frameworks": [
+      { "nom": "React", "note": 6 },
+      { "nom": "Electron", "note": 5 }
+    ]
+  },
+  "interêts": [
     {
       "titre": "🏆 Collection",
       "description": "J'aime collectionner des objets comme des trophées, des figurines ou des cartes à collectionner",
       "exemples": [
         {
           "nom": "Funko",
-          "image":
-            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/funko-logo.png",
+          "image": "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/funko-logo.png",
           "url": "https://www.funko.com/"
         },
         {
           "nom": "Pokémon",
-          "image":
-            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/pokemon-logo.png",
+          "image": "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/pokemon-logo.png",
           "url": "https://www.pokemon.com/fr/"
         }
       ]
@@ -89,48 +89,57 @@
         {
           "nom": "Minecraft",
           "url": "https://www.minecraft.net/fr-fr",
-          "image":
-            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/minecraft-logo.png"
+          "image": "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/minecraft-logo.png"
         },
         {
           "nom": "Fortnite créative",
           "url": "https://www.epicgames.com/fortnite/fr/creative",
-          "image":
-            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/fortnite-creative-logo.png"
+          "image": "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/fortnite-creative-logo.png"
         }
       ]
     },
     {
       "titre": "🎨 Art",
-      "description":
-        "J'aime l'art en général : j'aime dessiner, faire des illustrations, des montages photos ou des vidéos ou même de la 3D",
+      "description": "J'aime l'art en général : j'aime dessiner, faire des illustrations, des montages photos ou des vidéos ou même de la 3D",
       "exemples": [
         {
           "nom": "Imgur",
-          "image":
-            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/imgur-logo.png",
+          "image": "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/imgur-logo.png",
           "url": "https://imgur.com/a/apmRtPe"
         },
         {
           "nom": "Imgur",
-          "image":
-            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/imgur-logo.png",
+          "image": "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/imgur-logo.png",
           "url": "https://imgur.com/a/uBbBAga"
         }
       ]
     },
     {
       "titre": "💻 Technologies",
-      "description":
-        "J'aime l'informatique, que ce soit les nouvelles technologies, internet, l'automatisation et la programmation",
+      "description": "J'aime l'informatique, que ce soit les nouvelles technologies, internet, l'automatisation et la programmation",
       "exemples": [
         {
           "nom": "Github",
           "url": "https://github.com/Pierre-LHOSTE",
-          "image":
-            "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/github-logo.png"
+          "image": "https://raw.githubusercontent.com/Pierre-LHOSTE/Pierre-LHOSTE.github.io/assets/interests-icons/github-logo.png"
         }
       ]
     }
+  ],
+  "projets": [
+    {
+      "titre": "Portfolio",
+      "description": "Portfolio réalisé en React",
+      "image": "https://pierre-lhoste.github.io/media/thumbnail.png",
+      "icon": "https://pierre-lhoste.github.io/icon.png",
+      "url": "https://pierre-lhoste.github.io/"
+    },
+    {
+      "titre": "Resources-list",
+      "description": "Une liste de ressources utiles pour le développement web",
+      "image": "https://pierre-lhoste.github.io/Resources-list/image.png",
+      "icon": "https://pierre-lhoste.github.io/Resources-list/logo.svg",
+      "url": "https://pierre-lhoste.github.io/Resources-list/"
+    }
   ]
-  }
+}
