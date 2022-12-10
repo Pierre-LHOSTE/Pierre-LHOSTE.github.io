@@ -8,8 +8,12 @@
     "ville": "pélissanne",
     "mail": "vingt-douze@protonmail.com",
     "website": "Pierre-LHOSTE.github.io",
-    "liens": [{ "nom": "Codepen", "lien": "https://codepen.io/vingt-douze" }],
-    "description": "Actuellement en formation à 3WAcademy, Je suis à la recherche d'un contrat d'apprentissage en tant que Développeur / Intégrateur Web, de préférence en télétravail complet",
+    "liens": [
+      { "nom": "Codepen", "lien": "https://codepen.io/vingt-douze" },
+      { "nom": "Github", "lien": "https://github.com/Pierre-LHOSTE" },
+      { "nom": "Linkedin", "lien": "https://www.linkedin.com/in/pierre-lhoste/" }
+    ],
+    "description": "Actuellement en formation à la 3W Academy, Je suis à la recherche d’un contrat d’apprentissage en tant que Développeur / Intégrateur Web d'une durée de 12 mois et de préférence en télétravail complet",
     "détails": [
       "Rythme : 3 semaines en entreprise / 1 semaine en école",
       "Formation éligible à l’Aide Exceptionnelle de 8000€"
@@ -19,7 +23,7 @@
     {
       "date": "2015-2019",
       "lieux": "Salon-de-Provence",
-      "école": "Lycée de l'Emperi",
+      "école": "Lycée de l’Emperi",
       "url": "http://www.lyc-emperi.ac-aix-marseille.fr",
       "nom": "Bac scientifique",
       "statut": "ok"
@@ -29,7 +33,7 @@
       "lieux": "Salon-de-Provence",
       "école": "UIT Aix-Marseille",
       "url": "https://iut.univ-amu.fr/fr",
-      "nom": "DUT Génie électrique et informatique industrielle",
+      "nom": "DUT Génie Électrique et Informatique Industrielle",
       "statut": "ok"
     },
     {
@@ -37,7 +41,7 @@
       "lieux": "Télé présentiel",
       "école": "3W Academy",
       "url": "https://www.3wrh.fr/",
-      "nom": "Formation Développeur Intégrateur web",
+      "nom": "Formation Développeur / Intégrateur Web",
       "statut": "en cours"
     }
   ],
@@ -46,9 +50,8 @@
       { "nom": "Photoshop", "note": 8 },
       { "nom": "Illustrator", "note": 6 },
       { "nom": "Git", "note": 5 },
-      { "nom": "Atom", "note": 8 },
-      { "nom": "NodeJs", "note": 5 },
-      { "nom": "Microsoft Office", "note": 6 }
+      { "nom": "VSCodium", "note": 7 },
+      { "nom": "NodeJs", "note": 5 }
     ],
     "langages": [
       { "nom": "JS", "note": 7 },
@@ -68,7 +71,7 @@
   "interêts": [
     {
       "titre": "🏆 Collection",
-      "description": "J'aime collectionner des objets comme des trophées, des figurines ou des cartes à collectionner",
+      "description": "J’aime collectionner des objets comme des trophées, des figurines ou des cartes à collectionner",
       "exemples": [
         {
           "nom": "Funko",
@@ -100,7 +103,7 @@
     },
     {
       "titre": "🎨 Art",
-      "description": "J'aime l'art en général : j'aime dessiner, faire des illustrations, des montages photos ou des vidéos ou même de la 3D",
+      "description": "J’aime l’art en général : j’aime dessiner, faire des illustrations, des montages photos ou des vidéos ou même de la 3D",
       "exemples": [
         {
           "nom": "Imgur",
@@ -116,7 +119,7 @@
     },
     {
       "titre": "💻 Technologies",
-      "description": "J'aime l'informatique, que ce soit les nouvelles technologies, internet, l'automatisation et la programmation",
+      "description": "J’aime l’informatique, que ce soit les nouvelles technologies, internet, l’automatisation et la programmation",
       "exemples": [
         {
           "nom": "Github",
