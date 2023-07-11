@@ -143,6 +143,13 @@
       "image": "https://pierre-lhoste.github.io/Resources-list/image.png",
       "icon": "https://pierre-lhoste.github.io/Resources-list/logo.svg",
       "url": "https://pierre-lhoste.github.io/Resources-list/"
+    },
+    {
+      "titre": "212-Collections",
+      "description": "Un logiciel qui vous permet de créer des collections personnalisées",
+      "image": "https://raw.githubusercontent.com/212-Collections/Branding/main/thumbnail/thumbnail.png",
+      "icon": "https://raw.githubusercontent.com/212-Collections/Branding/main/logo/simple/white.svg",
+      "url": "https://github.com/212-Collections/212-Collections"
     }
   ]
 }
